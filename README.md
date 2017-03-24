@@ -12,3 +12,4 @@ You need the last jQuery framework to be added to your index page
 and add plugin to index page as well
       <!--plug-in Countdown.js-->
       <script type="text/javascript" src="countdown.js"></script>
+------------------

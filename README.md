@@ -19,4 +19,4 @@ Also, you need to create some block on you index page...
 ... and add some styles
 
       <link href="countdown.css" rel="stylesheet">
-Deadline date must be in format "YYYY-MM-DD HH:MM". When deadline is less than current time or timer has reached zero  - you have "0|00|00|00" timer.
+Deadline date must be in format "YYYY-MM-DD HH:MM". When deadline is less than current time or timer has reached zero  - you will have "0|00|00|00" timer.

@@ -14,9 +14,11 @@ and add plugin to index page as well
 
       <script type="text/javascript" src="countdown.js"></script>
 Initialization:
+
       $('#countdown_container).countdown({
             deadline:deadline-data
       })      
+
 Also, you need to create some block on you index page...
 
       <div id"cdt" class='widget-wrapper' data-countdown="2017-12-12 12:00"></div>
